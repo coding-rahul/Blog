@@ -1,0 +1,20 @@
+.footerheading {
+    width: 70%;
+}
+
+.para {
+    font-size: small;
+}
+
+.post-card {
+    width: 70%;
+    margin-top: 10%;
+}
+
+.post-text {
+    height: 70vh;
+}
+
+.post-btn {
+    width: 20%;
+}

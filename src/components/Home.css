@@ -1,0 +1,37 @@
+.heading {
+    height: 85vh;
+    margin: 0 0 0 10px;
+}
+
+.input-search {
+    width: 55%;
+    margin-top: 10rem;
+}
+
+.home-reader {
+    width: 40%;
+}
+
+.home_exc {
+    width: 60%;
+
+}
+
+.card-details {
+    border-radius: 10px;
+    height: 70vh;
+    box-sizing: border-box;
+}
+
+.img {
+    height: 40vh;
+    border-radius: 10px 10px 0 0;
+}
+
+.heading-fw {
+    font-weight: 650;
+}
+
+.home-img {
+    height: 50vh;
+}
